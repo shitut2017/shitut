@@ -12,7 +12,7 @@
 
 using namespace std;
 
-void main()
+int  main()
 {
 	Graphics g;
 	DoubleBorderDrawer bdDbl;
@@ -149,7 +149,7 @@ void main()
 	//btn1.mousePressed(0, 0, true);
 	//Sleep(5000);
 //
+	int x;
+	cin >> x;
+	return 0;
 }
-
-
-
